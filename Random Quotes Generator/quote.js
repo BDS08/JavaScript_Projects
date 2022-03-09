@@ -4,6 +4,10 @@ var arrayQuotes = [
       'quotes' : 'Whatever the mind of man can conceive and believe, it can achieve.'
     },
     {
+      'author':'Nelson Mandela',
+      'quotes' : 'It always seems impossible until it is done'
+    },
+    {
       'author':'Albert Einstein',
       'quotes' : 'Strive not to be a success, but rather to be of value.'
     },
