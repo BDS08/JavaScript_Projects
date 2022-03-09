@@ -1,6 +1,6 @@
 let btn = document.getElementById("btn") 
 let bulb = document.getElementById("img") 
-btn.addEventListener("click",togglebulb);;
+btn.addEventListener("click",togglebulb);
 
 function togglebulb(e){
     
